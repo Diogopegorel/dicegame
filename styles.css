@@ -1,0 +1,51 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-color: #EA047E;
+    font-family: sans-serif;
+}
+h1 {
+    color: #FCE700;
+}
+h2 {
+    color: #FCE700;
+    font-weight: 900;
+}
+button {
+    background-color: #00F5FF;
+    color: #140909;
+    font-weight: 900;
+    border-radius: 20%;
+    border: none;
+    padding: 10px;
+}
+button:hover {
+    background-color: #91babb;
+}
+.dice {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0;
+    padding: 20px;
+    width: 60%;
+    height: 230px;
+    background-color: #FCE700;
+    display: inline-flex;
+}
+.dice1 {
+    width: 50%;
+}
+.dice2{
+    width: 50%;
+}
+img {
+    height: 100px;
+}
+footer {
+    padding: 20px;
+}
+#winner {
+    font-family:cursive;
+    font-size: 3rem;
+    font-weight: 400;
+}
